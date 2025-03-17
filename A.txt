@@ -1,5 +1,7 @@
   santhosh 
   santhosh
+  santhosh 
+  santhosh
     
 class B{
 
